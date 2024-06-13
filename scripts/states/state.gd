@@ -4,7 +4,7 @@ static var player: Player
 
 func _ready():
 	pass
-	
+
 
 # Player enters this state
 func enter() -> void:
